@@ -59,16 +59,4 @@ in-class demonstration notebook.
 - `feature/<section>-<name>` — one branch per person per section
 - Open a pull request into `main` when your section is complete; group lead reviews and merges
 
-## Setup (local)
 
-```bash
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-## Individual Accountability Note
-
-Every group member is expected to understand the *entire* notebook, not just
-their own section — each person will face a short one-on-one defense question
-that could relate to any part of the analysis.
